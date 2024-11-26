@@ -31,10 +31,10 @@ Read more about how Neural Style Transfer works and its underlying algorithms in
 
 ### Getting More Information
 
-Link to your YouTube video demo: SOON
+Link to your YouTube video demo: https://youtu.be/Ep_zUIeH8Pk
 the vedio describe each ligne of the code 
 
-Link to LinkedIn post about the project: SOON
+
 
 ### Contact
 
